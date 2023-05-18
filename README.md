@@ -11,7 +11,7 @@
 -  
 ![Age](https://img.shields.io/badge/Age-20-blue)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-blue)](https://en.wikipedia.org/wiki/Hanoi)
-[![Learning](https://img.shields.io/badge/University%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)
+[![Learning](https://img.shields.io/badge/University%20National%20Economics%20University-blue)](https://en.neu.edu.vn/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

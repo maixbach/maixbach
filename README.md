@@ -28,7 +28,7 @@
 ![Sklearn](https://img.shields.io/badge/-Sklearn-d6882f.svg?style=flat&logo=Scikit-learn)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)
 
-## Editors;
+## Editors
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](http://img.shields.io/badge/-Pycharm-49e031.svg?style=flat&logo=Pycharm)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)

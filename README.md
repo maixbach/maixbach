@@ -9,9 +9,9 @@
 - 🌱 &nbsp; Love learning more and more about **Machine Learning, Deep Learning**.
 -  🌟 &nbsp; I will appreciate if any of my projects could help you. And I will be happy with a starrrr.
 -  
-![Age](https://img.shields.io/badge/age-20-blue)
+![Age](https://img.shields.io/badge/Age-20-blue)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-blue)](https://en.wikipedia.org/wiki/Hanoi)
-[![Learning](https://img.shields.io/badge/Learning%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)
+[![Learning](https://img.shields.io/badge/University%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,8 +39,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maixbach&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maixbach&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -48,10 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:maixbach.workneu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maixbach.workneu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--

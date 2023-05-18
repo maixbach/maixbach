@@ -8,7 +8,7 @@
 - 💼 &nbsp; Open to work as a role of **Data Scientist** or **Data Analyst**.
 - 🌱 &nbsp; Love learning more and more about **Machine Learning, Deep Learning**.
 -  🌟 &nbsp; I will appreciate if any of my projects could help you. And I will be happy with a starrrr.
--  
+ 
 ![Age](https://img.shields.io/badge/Age-20-blue)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-blue)](https://en.wikipedia.org/wiki/Hanoi)
 [![Learning](https://img.shields.io/badge/Learning%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)

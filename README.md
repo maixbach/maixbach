@@ -12,7 +12,7 @@
 ![Age](https://img.shields.io/badge/age-20-blue)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-blue)](https://en.wikipedia.org/wiki/Hanoi)
 [![Learning](https://img.shields.io/badge/Learning%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)
-![](https://komarev.com/ghpvc/?username=maixbach&color=brightgreen&style=flat)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 ## Programming Languages
@@ -54,7 +54,6 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
 <!--
 **maixbach/maixbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
